@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@types/node": "^18.11.17",
-    "@types/web": "^0.0.84",
+    "@types/web": "^0.0.89",
     "@typescript-eslint/eslint-plugin": "^5.46.1",
     "@typescript-eslint/parser": "^5.46.1",
     "ab": "https://github.com/lichess-org/ab-stub",
