@@ -17,9 +17,9 @@
     "@types/chess.js": "=0.10.1",
     "@types/lichess": "workspace:*",
     "chess.js": "github:ornicar/chess.js#learn",
-    "chessground": "=4.4.2",
+    "chessground": "9.2.1",
     "common": "workspace:*",
-    "mithril": "github:ornicar/mithril.js#lila-1"
+    "mithril": "2.0.3"
   },
   "scripts": {
     "compile": "tsc",
